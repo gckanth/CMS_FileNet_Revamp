@@ -43,15 +43,15 @@
               "filePath"		:  "//172.16.8.160//c$//Users//Administrator//Desktop//LIC_Policy Application.pdf",
 			  "mimeType"		: "application/pdf",
 			  "Folder_ID"		:"1121-1",
-              "Creator"					: "Processor1@icm.com",
+              "Creator"					: "Processor1",
               "DateCreated"				: "2/14/2018, 5:35 PM",
               
                "security"		: [{
-                   "userName":"p8admin@icm.com",
+                   "userName":"p8admin",
                    "privilege":"fullcontrol",
                    "privilegeType":"Allow"
                  },{
-                     "userName":"Processor1@icm.com",
+                     "userName":"Processor1",
                      "privilege":"viewProperties",
                      "privilegeType":"Allow"
                    }]

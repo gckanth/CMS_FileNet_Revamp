@@ -4,7 +4,7 @@
                     "MarkingSetName"         	:	"CMS Security Marking Sets",
                     "MarkingValues"				:	[{
 									                   	"MarkingValue" 				: 	"CMS Property11",
-									                   	"Privilege"					:	"fullcontrol",
+									                   	"Privilege"					:	"modifyAllProperties",
 									                   	"Users"						:	[{"UserOrGroup":"p8admin"},
 									                   	       						 	 {"UserOrGroup":"Processor3"},
 									                   	       						 	 {"UserOrGroup":"Processors"}],
@@ -12,7 +12,7 @@
 									                },
 									                {
 									                   	"MarkingValue" 				: 	"CMS Property12",
-									                   	"Privilege"					:	"modifyAllProperties",
+									                   	"Privilege"					:	"viewProperties",
 									                   	"Users"						:	[{"UserOrGroup":"p8admin"},
 									                   	       						 	 {"UserOrGroup":"Processor2"},
 									                   	       						 	 {"UserOrGroup":"Processors"}],
@@ -20,7 +20,7 @@
 									                },
 									                {
 									                   	"MarkingValue" 				: 	"CMS Property13",
-									                   	"Privilege"					:	"viewProperties",
+									                   	"Privilege"					:	"fullcontrol",
 									                   	"Users"						:	[{"UserOrGroup":"p8admin"},
 									                   	       						 	 {"UserOrGroup":"Processor1"},
 									                   	       						 	 {"UserOrGroup":"Processors"}],

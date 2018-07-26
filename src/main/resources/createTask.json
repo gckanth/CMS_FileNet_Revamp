@@ -4,7 +4,7 @@
          "Task" : {
 
            "TaskName" :"CMSDemo1",
-           "Creator"					: "Processor1@icm.com",
+           "Creator"					: "Processor1",
            "DateCreated"				: "2/14/2018, 5:35 PM",
             "TaskDetails" :
 				[{

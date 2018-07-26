@@ -1,12 +1,12 @@
 {
       "RequestDetails" : {
          "choiceListDetails" : {
-                   "name"         	: "Choice Item of The CMS",
+                   "name"         	: "Choice Item of The CMS Revamp",
                     "listType"      : "String",
                     "listValues" 	:[{"DisplayName":"عينة", "value":"Sample"},
                                      {"DisplayName":"خيار", "value":"Choice"},
                                      {"DisplayName":"البيانات الوصفية", "value":"Metadata"}],
-                    "Creator"		: "Processor1@icm.com",
+                    "Creator"		: "Processor1",
                     "DateCreated"	: "2/14/2018, 5:35 PM"
            }
      }

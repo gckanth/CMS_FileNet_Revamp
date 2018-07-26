@@ -1,0 +1,19 @@
+{
+  "RequestDetails" : {
+     	"FolderDetails" : 	{
+     	"Folder_ID"    	: "0219",
+	      		 "FolderProperties" : [{	
+						                   "propertyName" : "Folder_ID",
+						                   "dataType"         : "String",
+						                    "cardinality"      : "Single",
+						                    "value"               : "0116"
+						                },
+						                {	
+						                   "propertyName" : "RecordSerialNumber",
+						                   "dataType"         : "String",
+						                    "cardinality"      : "Single",
+						                    "value"               : "45678"
+						                }]
+            			} 
+       			}
+}

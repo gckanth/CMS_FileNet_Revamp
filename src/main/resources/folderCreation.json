@@ -2,22 +2,22 @@
       "RequestDetails" : {
 
          "FolderDetails" : {
-           "FolderName"              : "Folder_CMS",
+           "FolderName"              : "Folder_CMS_Test",
            "Folder_ID"    			 : "0002",
             "FolderProperties" :
  				[{	
                    "propertyName" : "Folder_ID",
                    "dataType"         : "String",
                     "cardinality"      : "Single",
-                    "value"               : "0015"
+                    "value"               : "0219"
                 },
  				{	
                     "propertyName" : "RecordSerialNumber",
                     "dataType"         : "String",
                      "cardinality"      : "Single",
-                     "value"               : "1121-35"
+                     "value"               : "1121-39"
                  }],
-               "Creator"					: "Processor1@icm.com",
+               "Creator"					: "Processor1",
               "DateCreated"				: "2/14/2018, 5:39 PM",
             } 
        }

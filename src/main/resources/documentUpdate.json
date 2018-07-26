@@ -22,7 +22,7 @@
                    "propertyName" : "CRSP_DOC_LOCATIONS",
                    "dataType"         : "Integer",
                     "cardinality"      : "Multi",
-                    "value"               : ["0","1","3"]
+                    "value"               : ["2","1","3"]
                 },
                 {
                    "propertyName" : "CRSP_DOC_REMARKS",
@@ -36,21 +36,20 @@
                     "cardinality"	: "Single",
                      "value"		:  "Restricted"
                  }],
-              "filePath"		:  "//172.16.8.160//c$//Users//Administrator//Desktop//New Rich Text Document.rtf",
-			  "mimeType"		: "application/rtf",
-			  "Creator"					: "administrator@icm.com",
+              "filePath"		:  "noContent",
+			  "mimeType"		: "",
+			  "Creator"					: "administrator",
               "DateCreated"				: "5/14/2018, 5:34 PM",
               "security"		: [{
-                   "userName":"p8admin@icm.com",
+                   "userName":"p8admin",
                    "privilege":"fullcontrol",
                    "privilegeType":"Allow"
                  },{
-                     "userName":"Processor1@icm.com",
+                     "userName":"Processor1",
                      "privilege":"viewProperties",
                      "privilegeType":"Allow"
                    }]
             } 
-              
             } 
        }
 }
