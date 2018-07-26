@@ -1,0 +1,18 @@
+{
+      "RequestDetails" : {
+
+		"Task" : {
+
+         "ID":"{6836815F-DA4C-403A-9CD7-7C296E70CFC6}",
+
+            "TaskDetails" :
+				[{
+                   "propertyName" : "ApplicationName",
+                   "dataType"         : "String",
+                    "cardinality"      : "Single",
+                    "value"               : "testing info"
+                }]
+
+            } 
+       }
+}

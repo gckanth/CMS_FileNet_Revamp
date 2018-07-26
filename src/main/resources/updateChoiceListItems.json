@@ -1,0 +1,11 @@
+{
+      "RequestDetails" : {
+         "choiceListDetails" : {
+                   "name"         : "CMS Choice List Metadata",
+                    "listType"         : "String",
+                    "listValues" :  [{"DisplayName":"عينة", "value":"Updated Sample"},
+                                     {"DisplayName":"خيار", "value":"Updated Choice"},
+                                     {"DisplayName":"البيانات الوصفية", "value":"Updated Metadata"}]
+           }
+     }
+}

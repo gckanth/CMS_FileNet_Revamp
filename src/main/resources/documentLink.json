@@ -1,0 +1,27 @@
+{
+      "RequestDetails" : {
+            "ParentDocVSID"       : "{B09C0A62-0000-CC1B-A8E2-1D7071E24520}",
+            "Creator"					: "Processor1",
+            "DateCreated"				: "2/14/2018, 5:35 PM",
+			"ChildLinkDetails"    :[{
+									"childDocVSID" : "{D0BD4262-0000-C111-AE12-19010984CB0F}",
+									"linkName" : "First Link Name",
+									"linkType" : "Forward Link",
+									"description"        :"Forward Link First Child description" 
+									},
+									 {
+									"childDocVSID" : "{F0BF4262-0000-C815-869C-C740535DA408}",
+									"linkName" : "Second Link Name",
+									"linkType" : "Reverse Link",
+									"description"        :"Reverse Link First Child description" 
+									},
+									{
+									"childDocVSID" : "{80AF0A62-0000-C810-BCAC-C54319A4009A}",
+									"linkName" : "Third Link Name",
+									"linkType" : "Standard Link",
+									"description"        :"Standard Link First Child description" 
+									}]
+       }
+}
+
+

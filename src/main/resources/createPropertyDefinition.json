@@ -1,0 +1,18 @@
+{
+      "RequestDetails" : {
+      		"Property": {
+      					"DocumentClass":"CMS_",
+      					"Creator"					: "Processor1",
+                        "DateCreated"				: "2/14/2018, 5:35 PM",
+      					"propertyDetails":{
+					      					"propertyName"     	:  	"CMS Choices New",
+					      					"symbolicName"     	:  	"CMSChoicesNew",
+						                    "dataType"         	:  	"String",
+						                    "cardinality"     	: 	"single",
+						                    "maxLength"			:	"100",
+						                    "isRequired"		:	"true",
+						                    "choiceListName"  	: 	"Choices CMS",
+					      		}
+      					}
+     }
+}

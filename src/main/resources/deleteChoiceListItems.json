@@ -1,0 +1,9 @@
+{
+      "RequestDetails" : {
+         "choiceListDetails" : {
+                   "name"         : "CMS Choice List Metadata",
+                    "listType"         : "String",
+                    "listValues" :  [{"DisplayName":"lkjh", "value":"lkjh"}]
+           }
+     }
+}

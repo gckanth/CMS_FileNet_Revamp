@@ -1,0 +1,10 @@
+{
+      "RequestDetails" : {
+              "Property": {
+      					"DocumentClass":"CMS_",
+      					"propertyDetails":{
+					      					"propertyName"     :  "CMSChoicesNew"
+					      		}
+      			}
+          }
+}
