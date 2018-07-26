@@ -1,0 +1,11 @@
+{
+      "RequestDetails" : {
+				"DocumentClass" : {
+						"ParentClass":"CMS_",
+           				"DocumentDisplayName" : "CMS_Test",
+           				"DocumentSymbolicName" : "CMS_Test",
+           				"Creator"					: "Processor1@icm.com",
+                        "DateCreated"				: "2/14/2018, 5:45 PM",
+           		}      
+      }
+}

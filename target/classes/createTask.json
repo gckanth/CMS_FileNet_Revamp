@@ -1,0 +1,26 @@
+{
+      "RequestDetails" : {
+
+         "Task" : {
+
+           "TaskName" :"CMSDemo1",
+           "Creator"					: "Processor1@icm.com",
+           "DateCreated"				: "2/14/2018, 5:35 PM",
+            "TaskDetails" :
+				[{
+                   "propertyName" : "ApplicationName",
+                   "dataType"         : "String",
+                    "cardinality"      : "Single",
+                    "value"               : "test"
+                },
+                {
+                  "propertyName" : "AccountNo",
+                   "dataType" : "string",
+                    "cardinality" : "single",
+                     "value" : "test"
+                 }],
+
+              "filePath"   :  "/Test"
+            } 
+       }
+}

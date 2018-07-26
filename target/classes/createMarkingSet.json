@@ -1,0 +1,31 @@
+{
+      "RequestDetails" : {
+         "MarkingSet" : {
+                    "MarkingSetName"         	:	"CMS Security Sets",
+                    "MarkingValues"				:	[{
+									                   	"MarkingValue" 				: 	"CMS Property11",
+									                   	"Privilege"					:	"fullcontrol",
+									                   	"Users"						:	[{"UserOrGroup":"p8admin@icm.com"},
+									                   	       						 	 {"UserOrGroup":"Processor3@icm.com"},
+									                   	       						 	 {"UserOrGroup":"Processors"}],
+                    									"PrivilegeType"				:	"Allow",
+									                },
+									                {
+									                   	"MarkingValue" 				: 	"CMS Property12",
+									                   	"Privilege"					:	"modifyAllProperties",
+									                   	"Users"						:	[{"UserOrGroup":"p8admin@icm.com"},
+									                   	       						 	 {"UserOrGroup":"Processor2@icm.com"},
+									                   	       						 	 {"UserOrGroup":"Processors"}],
+                    									"PrivilegeType"				:	"Allow",
+									                },
+									                {
+									                   	"MarkingValue" 				: 	"CMS Property13",
+									                   	"Privilege"					:	"viewProperties",
+									                   	"Users"						:	[{"UserOrGroup":"p8admin@icm.com"},
+									                   	       						 	 {"UserOrGroup":"Processor1@icm.com"},
+									                   	       						 	 {"UserOrGroup":"Processors"}],
+                    									"PrivilegeType"				:	"Allow",
+									                }]
+           }
+     }
+}

@@ -1,0 +1,10 @@
+{
+      "RequestDetails" : {
+              "Property": {
+      					"DocumentClass":"CMSTest",
+      					"propertyDetails":{
+					      					"propertyName"     :  "CMSMarkTest"
+					      		}
+      			}
+          }
+}

@@ -1,0 +1,60 @@
+{
+      "RequestDetails" : {
+
+        "isRecord" : "true",
+        
+        "isVital" : "false",
+        
+         "Document" : {
+
+           "DocumentClass" : "CMSDemo",
+
+            "DocumentProperties" :  
+			[{
+                   "propertyName" : "CRSP_DOC_LOCATIONS",
+                   "dataType"         : "Integer",
+                   "cardinality"      : "Multi",
+                   "value"               : ["0","1","2"]
+                },
+                {
+                   "propertyName" : "CRSP_DOC_FILE_NO",
+                   "dataType"         : "Integer",
+                    "cardinality"      : "Single",
+                    "value"               : "1"
+                },
+                {
+                  "propertyName"	: "CRSP_DOC_ISSUE_DATE",
+                   "dataType"	: "DateTime",
+                    "cardinality"	: "Single",
+                     "value"		:  "2/14/2018, 5:11 PM"
+                 },
+                {
+                  "propertyName"	: "CRSP_DOC_REMARKS",
+                   "dataType"	: "String",
+                    "cardinality"	: "Single",
+                     "value"		:  "This is New CMS Document"
+                 },
+                {
+                  "propertyName"	: "CMSMarkingStart",
+                   "dataType"	: "String",
+                    "cardinality"	: "Single",
+                     "value"		:  "Restricted"
+                 }],
+              "filePath"		:  "//172.16.8.160//c$//Users//Administrator//Desktop//LIC_Policy Application.pdf",
+			  "mimeType"		: "application/pdf",
+			  "Folder_ID"		:"1121-1",
+              "Creator"					: "Processor1@icm.com",
+              "DateCreated"				: "2/14/2018, 5:35 PM",
+              
+               "security"		: [{
+                   "userName":"p8admin@icm.com",
+                   "privilege":"fullcontrol",
+                   "privilegeType":"Allow"
+                 },{
+                     "userName":"Processor1@icm.com",
+                     "privilege":"viewProperties",
+                     "privilegeType":"Allow"
+                   }]
+            } 
+       }
+}
