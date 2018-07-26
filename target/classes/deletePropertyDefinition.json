@@ -1,9 +1,9 @@
 {
       "RequestDetails" : {
               "Property": {
-      					"DocumentClass":"CMSTest",
+      					"DocumentClass":"CMS_",
       					"propertyDetails":{
-					      					"propertyName"     :  "CMSMarkTest"
+					      					"propertyName"     :  "CMSChoicesNew"
 					      		}
       			}
           }

@@ -1,28 +1,28 @@
 {
       "RequestDetails" : {
          "MarkingSet" : {
-                    "MarkingSetName"         	:	"CMS Security Sets",
+                    "MarkingSetName"         	:	"CMS Security Marking Sets",
                     "MarkingValues"				:	[{
 									                   	"MarkingValue" 				: 	"CMS Property11",
 									                   	"Privilege"					:	"fullcontrol",
-									                   	"Users"						:	[{"UserOrGroup":"p8admin@icm.com"},
-									                   	       						 	 {"UserOrGroup":"Processor3@icm.com"},
+									                   	"Users"						:	[{"UserOrGroup":"p8admin"},
+									                   	       						 	 {"UserOrGroup":"Processor3"},
 									                   	       						 	 {"UserOrGroup":"Processors"}],
                     									"PrivilegeType"				:	"Allow",
 									                },
 									                {
 									                   	"MarkingValue" 				: 	"CMS Property12",
 									                   	"Privilege"					:	"modifyAllProperties",
-									                   	"Users"						:	[{"UserOrGroup":"p8admin@icm.com"},
-									                   	       						 	 {"UserOrGroup":"Processor2@icm.com"},
+									                   	"Users"						:	[{"UserOrGroup":"p8admin"},
+									                   	       						 	 {"UserOrGroup":"Processor2"},
 									                   	       						 	 {"UserOrGroup":"Processors"}],
                     									"PrivilegeType"				:	"Allow",
 									                },
 									                {
 									                   	"MarkingValue" 				: 	"CMS Property13",
 									                   	"Privilege"					:	"viewProperties",
-									                   	"Users"						:	[{"UserOrGroup":"p8admin@icm.com"},
-									                   	       						 	 {"UserOrGroup":"Processor1@icm.com"},
+									                   	"Users"						:	[{"UserOrGroup":"p8admin"},
+									                   	       						 	 {"UserOrGroup":"Processor1"},
 									                   	       						 	 {"UserOrGroup":"Processors"}],
                     									"PrivilegeType"				:	"Allow",
 									                }]
